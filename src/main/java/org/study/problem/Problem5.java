@@ -1,6 +1,6 @@
 package org.study.problem;
 
-public class Problem {
+public class Problem5 {
     /**
      * @ 문제 : 암호 해독
      * <p>
